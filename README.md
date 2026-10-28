@@ -44,13 +44,7 @@ A modern, full-stack MERN application designed to connect startups with top tale
 - Node.js (v18 or higher)
 - A free MongoDB Atlas cluster account
 
-### 2. Clone the Repository
-```bash
-git clone https://github.com/anshgupta-25/Realtime-Startup-company-Hiring-platform.git
-cd "DevHirex - Realtime Startup"
-```
-
-### 3. Setup the Backend
+### 4. Setup the Backend
 Open a terminal and navigate to the `server` folder:
 ```bash
 cd server
@@ -73,7 +67,7 @@ Run the backend server:
 npm run dev
 ```
 
-### 4. Setup the Frontend
+### 5. Setup the Frontend
 Open a **new** terminal and stay in the root folder (or `src` depending on where it sits):
 ```bash
 npm install
